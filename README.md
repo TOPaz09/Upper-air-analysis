@@ -37,7 +37,7 @@ Air quality index (AQI) and PM2.5 air pollution in Thailand from cnaqi api ([use
  6. Save configuration
  7. Press start button to begin process
 
-### Thai User Manual :blue_book:
+### Thai user manual :blue_book:
 [คู่มือการใช้งานโปรแกรม upper air analysis.pdf](https://drive.google.com/uc?export=download&id=13BVkQnCQYubDkyte1tc4WWBd98Fq3IVk)
 
 
@@ -46,7 +46,7 @@ Air quality index (AQI) and PM2.5 air pollution in Thailand from cnaqi api ([use
 | Option | WPFL (single file) | RWS (single file) | RWS code (single file) | WPFL (folder) | RWS (folder) | RWS Code (folder) |
 | :---- | :----: | :----: | :----: | :----: | :----: | :----: |
 | 200 mb | :white_check_mark: | :white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
-| full scale | :x: | :white_check_mark:| :white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
+| full scale | :x: | :white_check_mark:| :white_check_mark: |:x: |:white_check_mark: |:white_check_mark: |
 | inversion | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
 | PM2.5 | :white_check_mark: | :white_check_mark: | :white_check_mark: |:x: |:x: |:x: |
 | CSV | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
