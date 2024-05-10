@@ -1,6 +1,6 @@
 # :balloon: Upper air analysis  :partly_sunny:
-You can easily use user interface to process many types of data such as csv,excel,txt or icao upper air code
-to make many types of Skew-T Log-P Diagrams templates and send output to line notification ([use line token](https://notify-bot.line.me/th/)) and get weather forecast by using TMD (Thai meteological department) [api](https://data.tmd.go.th/dataset/index.php) or
+You can easily use user interface to process many types of data such as csv,excel,txt or upper air code
+to make Skew-T Log-P Diagram templates and send output to line notification ([use line token](https://notify-bot.line.me/th/)) and get weather forecast by using TMD (Thai meteological department) [api](https://data.tmd.go.th/dataset/index.php) or
 Air quality index (AQI) and PM2.5 air pollution in Thailand from cnaqi api ([use token key](https://aqicn.org/city/beijing/))
 
 ![show_ui](https://raw.githubusercontent.com/TOPaz09/Upper-air-analysis/main/figure/my_ui.png)
